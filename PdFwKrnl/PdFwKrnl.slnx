@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PdFwKrnl-RemoveObCallbacks/PdFwKrnl-RemoveObCallbacks.vcxproj" />
+  <Project Path="PdFwKrnl-RemovePPL/PdFwKrnl-RemovePPL.vcxproj" />
+  <Project Path="PdFwKrnl-TerminateProcess/PdFwKrnl-TerminateProcess.vcxproj" />
+</Solution>
