@@ -1,0 +1,16 @@
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.aps
+*.intermediate.manifest
+*.VC.db
+*.VC.opendb
+*.exe
+*.dll
+*.exp
+*.pdb
+*.lib
+.DS_Store
